@@ -1,4 +1,4 @@
-name: Terraform Pull Request Validation
+name: Terraform
 
 on:
   workflow_dispatch:
